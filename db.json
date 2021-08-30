@@ -1,5 +1,4 @@
-[
-   {
+  {
       "id": "1",
       "name": "Sensor 1",
       "location": "Patio",
@@ -31,6 +30,5 @@
       "icon": "image address",
       "description": "this divice is for..."
    }
-]
 
   
